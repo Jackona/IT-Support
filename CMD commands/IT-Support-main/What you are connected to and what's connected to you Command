@@ -1,0 +1,7 @@
+- netstat
+Ports
+- netstat -af
+Process ID
+- netstat -o
+Net stats
+- netstat -e -t 5

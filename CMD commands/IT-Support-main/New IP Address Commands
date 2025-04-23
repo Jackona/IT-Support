@@ -1,0 +1,6 @@
+New Ip address
+- ipconfig /release
+then
+- ipconfig /renew
+You could
+- ipconfig /release "WI-FI"

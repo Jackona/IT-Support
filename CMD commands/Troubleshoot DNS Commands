@@ -1,0 +1,6 @@
+DNS always has a problem never the network
+- ipconfig / displaydns
+This message will copy the command above, and you can paste any command outline to notepad
+- ipconfig / displaydns | clip
+This will flush the DNS cache
+- ipconfig /flushdns

@@ -1,0 +1,15 @@
+Wireless report
+- netsh wlan show wlanreport Then copy the file into the cmd then press enter. A report will be shown
+
+Showing the interface
+- netsh interface show interface
+
+Showing the interface ip address
+- netsh interface ip show address | findstr "IP ADDRESS"
+
+Find DNS servers
+- netsh interface ip show dnsservers
+
+Turn on/off windows defender firewall
+- netsh advfirewall set allprofiles state on
+- netsh advfirewall set allprofiles state off

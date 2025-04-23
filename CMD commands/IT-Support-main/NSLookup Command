@@ -1,0 +1,4 @@
+- nslookup
+- nslookup networkchuck.com
+This checked the Google DNS
+- nslookup networkchuck.coffee 8.8.8.8

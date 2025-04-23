@@ -1,0 +1,3 @@
+- ipconfig /all
+or
+- ipconfig /all | findstr dns

@@ -1,0 +1,2 @@
+- powercfg /energy
+- powercfg /batteryreport Then copy the outcome and paste it into the cmd. it will give a report on your PC battery 

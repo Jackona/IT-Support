@@ -1,0 +1,3 @@
+- tasklist | findstr script
+- taskkill /f /pid 20184
+- taskkill /f /pid 11432

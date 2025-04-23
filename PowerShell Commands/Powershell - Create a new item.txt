@@ -1,0 +1,7 @@
+Powershell - Create a new item
+
+New-Item -ItemType Directory -Path c:\ -Name Test2
+
+New-Item -ItemType File -Path c:\Test2 -Name testfile1.txt -Value "This is my File"
+
+Set-Content  -Path c:\Test2\testfile1.txt -Value "This is Replaced Value"

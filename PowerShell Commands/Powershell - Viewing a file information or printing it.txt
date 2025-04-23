@@ -1,0 +1,10 @@
+Powershell - Viewing a file information or printing it
+
+Get-Item testfile1.txt
+
+Get-Content testfile1.txt
+
+Get-Content testfile1.txt | Out-Grideview
+Get-Content testfile1.txt | Out-Printer
+
+

@@ -1,0 +1,5 @@
+Powershell - To stop a process
+
+Stop-Process -Name Note[ad
+
+Stop-Process -ID 108576 -Confirm -PassThru

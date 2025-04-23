@@ -1,0 +1,7 @@
+Powershell - Copying or moving an item
+
+Copt-Item -Path c:\test\testfile2.txt -Destination c:\Test3
+
+Move-Item -Path c:\test\testfile4.txt -Destination c:\Test3
+
+Move-Item -Path c:\test\testfile2.txt -Destination c:\Test3\testfile5.txt

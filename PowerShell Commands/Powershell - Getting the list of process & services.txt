@@ -1,0 +1,5 @@
+Powershell - Getting the list of process & services
+
+Get-Process
+
+Get-Service

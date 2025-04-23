@@ -1,0 +1,5 @@
+Powershell - Listing the files in a directory
+
+Get-ChildItem
+
+Get-ChildItem c:\test

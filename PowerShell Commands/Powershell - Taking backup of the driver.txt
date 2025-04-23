@@ -1,0 +1,3 @@
+Powershell - Taking backup of the driver
+
+Export-WindowsDriver -Online -Destination e:\Test\DriverBackup

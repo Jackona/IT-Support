@@ -1,0 +1,9 @@
+Powershell - Getting all the commands
+
+Get-Command
+
+Get-Command -CommandType cmdlet
+
+Get-Command *vpm
+Get-Command *Item
+

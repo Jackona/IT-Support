@@ -1,0 +1,3 @@
+Powershell - Renaming a file or folder
+
+Rename-Item -Path c:\Test2 - NewName Test3

@@ -1,0 +1,3 @@
+Powershell - Removing a file or directory
+
+Remove-Item c:\Test3\testfile2.txt

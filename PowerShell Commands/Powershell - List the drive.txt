@@ -1,0 +1,5 @@
+Powershell - List the drive
+
+Get -PSDrive
+
+Get -PSDrive -PSProvder FileSystem

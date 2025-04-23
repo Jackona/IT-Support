@@ -1,0 +1,5 @@
+Powershell - Getting help for a command
+
+Get-Help move-Item
+
+Get-Help Move-Item -Example

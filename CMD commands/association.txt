@@ -1,0 +1,9 @@
+association
+
+assoc .[extension]=[filetype]
+
+assoc .log
+
+assoc .log=txtfile
+
+assoc .log=

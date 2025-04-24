@@ -1,0 +1,9 @@
+copies to clipboard
+
+[command] | clip
+
+cd | clip
+
+clip < [filename]
+
+clip < sample.txt

@@ -1,0 +1,5 @@
+shows and modifies the encryption status of files
+
+cipher [options] [file_or_directory]
+
+cipher /e [file name]

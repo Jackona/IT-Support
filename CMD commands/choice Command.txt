@@ -1,0 +1,5 @@
+choice Command
+
+choice /c ync
+
+choice /c ync /m "Yes, No, Continue"

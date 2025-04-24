@@ -1,0 +1,9 @@
+change directory
+
+cd [directory]
+
+cd Public
+
+cd /d S:
+
+cd ..

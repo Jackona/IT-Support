@@ -1,0 +1,11 @@
+attribute
+
+R - Read-only.
+H - Hidden.
+S - System file.
+
+attrib [+/-] [attribute] [file_or_directory]
+
+attrib +R +H sample_file.txt
+
+attrib -H sample_file.txt

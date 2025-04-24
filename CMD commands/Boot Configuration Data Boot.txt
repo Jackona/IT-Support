@@ -1,0 +1,6 @@
+Boot Configuration Data Boot
+
+bcdboot [path]
+
+bcdboot C:\Windows
+

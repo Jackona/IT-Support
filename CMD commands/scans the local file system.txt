@@ -1,0 +1,5 @@
+scans the local file system
+
+chkdsk [volume] [options]
+
+chkdsk [volume] /f

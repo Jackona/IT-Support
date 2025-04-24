@@ -1,0 +1,3 @@
+This will make your PC faster
+
+DISM.exe /Online /Cleanup-image /Restorehealth

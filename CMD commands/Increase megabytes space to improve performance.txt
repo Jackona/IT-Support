@@ -1,0 +1,13 @@
+Increase megabytes space to improve performance 
+
+On the search bar
+type - This pc
+right click and go to properties
+Check Installed RAM
+Get your RAM and multiple it by  1024 then divide by 2 = ?
+Example: 8 * 1024 = 8192 /2 = 4096
+
+
+go the command prompt
+
+bcdedit /set increaseuserva 4096

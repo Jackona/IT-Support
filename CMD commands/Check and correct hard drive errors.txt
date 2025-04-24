@@ -1,0 +1,8 @@
+Check and correct hard drive errors
+
+chkdsk
+
+
+Fix errors whole scanning the hard drives
+
+chkdsk /f

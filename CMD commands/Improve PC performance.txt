@@ -1,0 +1,8 @@
+Improve PC performance
+
+fsutl behavior query memoryusage
+
+if memeroy usage = 1
+then
+
+fsutl behavior query memoryusage 2

@@ -1,0 +1,37 @@
+CMD (Command Prompt) for Troubleshooting
+
+1. Network Troubleshooting
+
+
+ipconfig /all          :: Shows all IP settings
+ipconfig /release      :: Releases IP
+ipconfig /renew        :: Renews IP
+ipconfig /flushdns     :: Clears DNS cache
+ping google.com        :: Checks internet connection
+tracert google.com     :: Traces route to destination
+nslookup domain.com    :: Resolves DNS info
+netstat -an            :: Shows open ports and connections
+
+2. System File and Image Repair
+
+sfc /scannow           :: Scans and fixes system files
+DISM /Online /Cleanup-Image /RestoreHealth
+                       :: Fixes Windows image if SFC can't
+
+3. Checks and fixes drive errors
+
+chkdsk C: /f /r        :: Checks and fixes drive errors
+
+4. Task & Process Management
+
+tasklist               :: Lists all running processes
+taskkill /IM notepad.exe /F
+                       :: Force kills a process
+
+5. User and System Info
+
+
+systeminfo             :: Shows system details
+whoami                 :: Shows current user
+net user               :: Lists user accounts
+

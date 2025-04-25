@@ -1,0 +1,6 @@
+Troubleshooting
+
+What is Troubleshooting?
+Troubleshooting is the systematic process of identifying, diagnosing, and resolving problems in a computer system or network. The goal is to find the root cause and fix it efficiently.
+
+

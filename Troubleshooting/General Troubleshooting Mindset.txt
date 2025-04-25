@@ -1,0 +1,33 @@
+General Troubleshooting Mindset
+
+
+1. Stay Calm and Logical
+
+	Don’t assume. Observe.
+
+	Replicate the issue if possible.
+
+
+2. Start Simple
+
+	Is it plugged in?
+
+	Is the system powered on?
+
+	Is the user input correct?
+
+
+3. Document Everything
+
+	Record errors, steps, and changes made.
+
+
+4. Use the Elimination Method
+
+	Rule out possible causes one by one.
+
+5. Ask Questions
+
+	What changed recently?
+
+	When did the issue start?

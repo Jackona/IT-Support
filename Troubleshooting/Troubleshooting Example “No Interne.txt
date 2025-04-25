@@ -1,0 +1,17 @@
+Troubleshooting Example: “No Internet on a Windows PC”
+
+1. Ask: “When did this start? Any changes made?”
+
+2. Check Wi-Fi is on and connected
+
+3. Run ping 8.8.8.8 to see if DNS is the issue
+
+4. Try ipconfig /release then ipconfig /renew
+
+5. If still down: ipconfig /flushdns
+
+6. Check Device Manager for network adapter issues
+
+7. Try a different network
+
+8. If persistent, reinstall network drivers or reset network settings

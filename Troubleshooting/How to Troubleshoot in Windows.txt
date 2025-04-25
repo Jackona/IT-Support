@@ -1,0 +1,35 @@
+How to Troubleshoot in Windows
+
+1. Basic Checks
+	Reboot the system
+
+	Check for updates (Settings → Windows Update)
+
+	Run built-in troubleshooters (Settings → System → Troubleshoot)
+
+2. Device/Hardware Issues
+	Open Device Manager (devmgmt.msc)
+
+	Look for yellow warning signs
+
+	Update/reinstall drivers
+
+3. Network Issues
+	Use Network Troubleshooter (Settings → Network & Internet)
+
+	Restart router or switch to another Wi-Fi
+
+4. Performance Issues
+	Open Task Manager (Ctrl + Shift + Esc)
+
+	Check CPU/RAM/Disk usage
+
+	Disable startup programs
+
+5. Application Crashes
+	Check Event Viewer (eventvwr.msc)
+
+	Look for errors under “Windows Logs → Application”
+
+6. File Corruption/System Issues
+	Run System File Checker (SFC) or DISM (more on that below)
